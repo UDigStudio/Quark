@@ -1,5 +1,5 @@
 {
-  "name": "@quark/button-props",
+  "name": "@UDigStudio/quark-button-props",
   "version": "0.0.1",
   "description": "Specification for button component.",
   "main": "index.d.ts",

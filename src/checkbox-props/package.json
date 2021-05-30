@@ -1,5 +1,5 @@
 {
-  "name": "@quark/checkbox-props",
+  "name": "@UDigStudio/quark-checkbox-props",
   "version": "0.0.1",
   "description": "Specification for checkbox component.",
   "main": "index.d.ts",

@@ -1,5 +1,5 @@
 {
-  "name": "@quark/popup-props",
+  "name": "@UDigStudio/quark-popup-props",
   "version": "0.0.1",
   "description": "Specification for Pop-up component.",
   "main": "index.d.ts",

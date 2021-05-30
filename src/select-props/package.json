@@ -1,5 +1,5 @@
 {
-  "name": "@quark/select-props",
+  "name": "@UDigStudio/quark-select-props",
   "version": "0.0.1",
   "description": "Specification for select component.",
   "main": "index.d.ts",

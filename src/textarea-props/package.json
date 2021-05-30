@@ -1,5 +1,5 @@
 {
-  "name": "@quark/textarea-props",
+  "name": "@UDigStudio/quark-textarea-props",
   "version": "0.0.1",
   "description": "Specification for textarea component.",
   "main": "index.d.ts",

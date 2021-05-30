@@ -1,5 +1,5 @@
 {
-  "name": "@quark/radio-props",
+  "name": "@UDigStudio/quark-radio-props",
   "version": "0.0.1",
   "description": "Specification for radio button component.",
   "main": "index.d.ts",

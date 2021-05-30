@@ -1,5 +1,5 @@
 {
-  "name": "@quark/text-props",
+  "name": "@UDigStudio/quark-text-props",
   "version": "0.0.1",
   "description": "Specification for text component.",
   "main": "index.d.ts",
