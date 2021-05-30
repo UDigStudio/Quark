@@ -1,0 +1,27 @@
+{
+  "name": "text-props",
+  "version": "0.0.1",
+  "description": "Specification for text component.",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UDigStudio/Quark.git"
+  },
+  "keywords": [
+    "text",
+    "component",
+    "web",
+    "javascript",
+    "specification",
+    "js"
+  ],
+  "author": "Cogwizzle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UDigStudio/Quark/issues"
+  },
+  "homepage": "https://github.com/UDigStudio/Quark#readme"
+}
