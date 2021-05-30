@@ -1,5 +1,5 @@
 {
-  "name": "multi-select-props",
+  "name": "@quark/multi-select-props",
   "version": "0.0.1",
   "description": "Specification for Multi Select component.",
   "main": "index.d.ts",

@@ -1,5 +1,5 @@
 {
-  "name": "option-props",
+  "name": "@quark/option-props",
   "version": "0.0.1",
   "description": "Specification for options to be passed to components.",
   "main": "index.d.ts",

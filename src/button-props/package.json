@@ -1,5 +1,5 @@
 {
-  "name": "button-props",
+  "name": "@quark/button-props",
   "version": "0.0.1",
   "description": "Specification for button component.",
   "main": "index.d.ts",

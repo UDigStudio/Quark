@@ -1,5 +1,5 @@
 {
-  "name": "number-props",
+  "name": "@quark/number-props",
   "version": "0.0.1",
   "description": "Specification for number component.",
   "main": "index.d.ts",
