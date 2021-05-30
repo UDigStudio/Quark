@@ -1,5 +1,5 @@
 {
-  "name": "select-props",
+  "name": "@UDigStudio/quark-select-props",
   "version": "0.0.1",
   "description": "Specification for select component.",
   "main": "index.d.ts",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UDigStudio/Quark.git"
+    "url": "https://github.com/UDigStudio/Quark"
   },
   "keywords": [
     "select",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/UDigStudio/Quark/issues"
   },
-  "homepage": "https://github.com/UDigStudio/Quark#readme"
+  "homepage": "https://github.com/UDigStudio/Quark#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }

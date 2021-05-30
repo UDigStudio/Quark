@@ -1,5 +1,5 @@
 {
-  "name": "quark",
+  "name": "@UDigStudio/quark-core",
   "version": "0.0.1",
   "description": "Specification for creating generic web components.",
   "main": "index.d.ts",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UDigStudio/Quark.git"
+    "url": "https://github.com/UDigStudio/Quark"
   },
   "keywords": [
     "Web",
@@ -28,5 +28,8 @@
   "homepage": "https://github.com/UDigStudio/Quark#readme",
   "dependencies": {
     "typescript": "^4.3.2"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
