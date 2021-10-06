@@ -1,6 +1,6 @@
 {
   "name": "@UDigStudio/quark-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Specification for creating generic web components.",
   "main": "src/index.d.ts",
   "scripts": {
